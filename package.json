@@ -1,0 +1,26 @@
+{
+  "name": "progress",
+  "version": "0.0.1",
+  "description": "multi-line nodejs progress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruanjiayou/progress.git"
+  },
+  "keywords": [
+    "progress",
+    "nodejs"
+  ],
+  "author": "ruanjiayou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruanjiayou/progress/issues"
+  },
+  "homepage": "https://github.com/ruanjiayou/progress#readme",
+  "dependencies": {
+    "string-width": "^5.0.1"
+  }
+}
